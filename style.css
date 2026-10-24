@@ -232,8 +232,12 @@ button:disabled {
 main {
   position: relative;
   width: 100%;
+} 
+.ribbon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-
 .scene {
   position: relative;
 
